@@ -1,4 +1,4 @@
-# Network Traffic Analysis
+# IoT Household Network Traffic Analysis
 This project is designed to collect and analyze traffic within a network with<br>
 the use of Python scripts and libraries with the following external libraries:<br>
 <i>-tshark<br>
