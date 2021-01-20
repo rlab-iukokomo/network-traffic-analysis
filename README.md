@@ -24,7 +24,7 @@ names for user readability.<br>
 -<b>capture_traffic()</b>: function called to begin capturing traffic via 
 <a href='https://www.wireshark.org/docs/man-pages/tshark.html'>tshark</a> external library<br>
 -<b>run_capture_code()</b>: calls capture_traffic() function.<br>
--<b>run_convert_code()</b>: calls functions in fileconversion.py'.<br>
+-<b>run_convert_code()</b>: calls functions in 'fileconversion.py'.<br>
 -<b>my_schedule()</b>: uses <a href='https://docs.python.org/3.8/library/time.html'>time</a> library to allow user to
 schedule their traffic scans and analyses.
 
